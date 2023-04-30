@@ -66,10 +66,10 @@ F. The output is `true` since converting any non-zero value to boolean always re
 
 **Question 15:** `==` compares the two values after converting to the same type while `===`checks for equality without types conversion needed.
 
-**Question 16:** [question 16.js](expose/javascript/part2-question16.js)
+**Question 16:** [question 16.js](part2-question16.js)
 
 **Question 17:** The result will be the array [2,4,6]. The `modifyArray` is called with an array and a function parameter `callback` which will multiply each elements in the input array by 2 then pushes it to `newArray`. Despite the 'newArray' being defined as const variable, the element with new value can still be added to it by pushing, as long as it is not reassigned.  
 
-**Question 18:** [question 18.js](expose/javascript/part2-question18.js)
+**Question 18:** [question 18.js](part2-question18.js)
 
 **Question 19:** The output is: 1 4 3 2

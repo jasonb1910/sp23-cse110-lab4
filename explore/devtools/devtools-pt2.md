@@ -2,4 +2,4 @@
 
 2. In this case, I convert the num1 and num2 to integer type at line 11 such as Number(num1) + Number(num2), so that it can do the addition as integer.
 
-![image](fix.png)
+![image](fix.png.png)

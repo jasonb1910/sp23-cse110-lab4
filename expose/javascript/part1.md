@@ -8,6 +8,6 @@
 
 **Question 5:** the code returns an error since the result is reassigned at line 7 but by using 'const' the result cannot be reassigned. 
 
-**Question 6:** the code return an error because result is a const variable and can only be accessed within the if statement block, it cannot be defined in line 13 which outside its block.
+**Question 6:** the code return an error because result is a const variable and can only be accessed within the if statement block, it cannot be defined in line 13 which outside its block and cannot be reassigned as in line 7.
 
 

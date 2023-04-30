@@ -22,47 +22,47 @@
 
 **Question 12:** 
 
-A. `student.name;`
+  A. `student.name;`
 
-B. `student.['Grad Year'];`
+  B. `student.['Grad Year'];`
 
-C. `student.greeting();`
+  C. `student.greeting();`
 
-D. `student['Favorite Teacher'].name;`
+  D. `student['Favorite Teacher'].name;`
 
-E. `student.courseLoad[0];`
+  E. `student.courseLoad[0];`
 
 **Question 13:**
 
-A. The output is `32` since integers map to their exact string representation, therefore, the string 3 is concatenated to the string 2 which resulted in the string `'32'`.  
+  A. The output is `32` since integers map to their exact string representation, therefore, the string 3 is concatenated to the string 2 which resulted in the string `'32'`.  
 
-B. The output is `1` since cannot subtract two strings so `'3'` maps to 3 then using subtract two interger which resulted in the interger 3 - 2 = 1.
+  B. The output is `1` since cannot subtract two strings so `'3'` maps to 3 then using subtract two interger which resulted in the interger 3 - 2 = 1.
 
-C. The output is `3` since null maps to 0 which resulted in the interger 3 + 0 = 3.
+  C. The output is `3` since null maps to 0 which resulted in the interger 3 + 0 = 3.
 
-D. The output is `3null` since '3' is a string and null maps to 'null' string which resulted in the string '3null'.
+  D. The output is `3null` since '3' is a string and null maps to 'null' string which resulted in the string '3null'.
 
-E. The output is `4` since true maps to 1 which resulted in the interger 1 + 3 = 1.
+  E. The output is `4` since true maps to 1 which resulted in the interger 1 + 3 = 1.
 
-F. The output is `0` since false maps to 0 and null also maps to 0 which resulted in the interger 0 + 0 = 0.
+  F. The output is `0` since false maps to 0 and null also maps to 0 which resulted in the interger 0 + 0 = 0.
 
-G. The output is `3undefined` since '3' is a string and undifined is also a string which resulted in the string '3undefined'. 
+  G. The output is `3undefined` since '3' is a string and undifined is also a string which resulted in the string '3undefined'. 
 
-H. The output is `NaN` since undefined maps to NaN in numeric conversion.
+  H. The output is `NaN` since undefined maps to NaN in numeric conversion.
 
 **Question 14:**
 
-A. The output is `true` since the string '2' maps to the interger 2
+  A. The output is `true` since the string '2' maps to the interger 2
 
-B. The output is `false` since by dictionary comparison, first char '2' is greater than the first char "1".
+  B. The output is `false` since by dictionary comparison, first char '2' is greater than the first char "1".
 
-C. The output is `true` since the string '2' maps to the interger 2
+  C. The output is `true` since the string '2' maps to the interger 2
 
-D. The output is `false` since by strict equality, the interger 2 and the string '2' are different data type.
+  D. The output is `false` since by strict equality, the interger 2 and the string '2' are different data type.
 
-E. The output is `false` since true maps to the interger 1, which is less than 2.
+  E. The output is `false` since true maps to the interger 1, which is less than 2.
 
-F. The output is `true` since converting any non-zero value to boolean always results in true
+  F. The output is `true` since converting any non-zero value to boolean always results in true
 
 **Question 15:** `==` compares the two values after converting to the same type while `===`checks for equality without types conversion needed.
 
